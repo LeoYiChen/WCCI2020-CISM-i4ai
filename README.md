@@ -93,7 +93,7 @@ Priv.-Doz. Dr.-Ing. Dipl.-Inform. Jörn Mehnen has a background in machining tec
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
 
 ***
-![](https://github.com/LeoYiChen/wind-and-moon/blob/master/%E5%85%AB%E5%A3%B0%E7%94%98%E5%B7%9E.%E6%B8%85%E7%A7%8B%E6%80%80%E5%8F%A4-0.jpg)
+
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0031.JPG)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0032.JPG)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88%E9%9B%86-%E5%9B%BE%E6%96%87%E7%89%88-%5B%E8%8F%A9%E8%90%A8%E8%9B%AE.%E5%A4%8F%5D.jpg)
