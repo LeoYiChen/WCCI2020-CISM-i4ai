@@ -1,3 +1,6 @@
+
+![](https://github.com/LeoYiChen/i4ai-WCCI2020-CISM/blob/master/header.jpg)
+
 ### IEEE WCCI2020 Special Session on Computational Intelligence and Smart Manufacturing (CISM)
 
 https://wcci2020.org/cross-disciplinary-applications-sessions/ 
@@ -101,6 +104,7 @@ Select **SC29. Computational Intelligence and Smart Manufacturing (CISM)**
 
 
 ![](https://github.com/LeoYiChen/i4ai-WCCI2020-CISM/blob/master/SC29.jpg)
+
 
 ***
 
