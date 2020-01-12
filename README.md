@@ -90,7 +90,17 @@ Priv.-Doz. Dr.-Ing. Dipl.-Inform. Jörn Mehnen has a background in machining tec
 
 **6. Submission**
 
+
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
+
+Go to WCCI2020 submission page: https://wcci2020.org/submissions/
+
+Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
+
+Select **SC29. Computational Intelligence and Smart Manufacturing (CISM)**
+
+
+![](https://github.com/LeoYiChen/WCCI2020-CI4APP/blob/master/SC29.jpg)
 
 ***
 
