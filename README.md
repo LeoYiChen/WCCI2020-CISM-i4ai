@@ -78,7 +78,7 @@ Priv.-Doz. Dr.-Ing. Dipl.-Inform. Jörn Mehnen has a background in machining tec
 
 **5.Important Dates:**
 
-15 Jan 2020      Paper Submission Deadline
+30 Jan 2020      Paper Submission Deadline
 
 15 Mar 2020     Paper Acceptance Notification Date
 
@@ -106,7 +106,6 @@ Select **SC29. Computational Intelligence and Smart Manufacturing (CISM)**
 
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0031.JPG)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0032.JPG)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88%E9%9B%86-%E5%9B%BE%E6%96%87%E7%89%88-%5B%E8%8F%A9%E8%90%A8%E8%9B%AE.%E5%A4%8F%5D.jpg)
 ![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/20150408_113603.jpg)
 
 
