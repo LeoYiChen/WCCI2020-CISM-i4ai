@@ -100,7 +100,7 @@ Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
 Select **SC29. Computational Intelligence and Smart Manufacturing (CISM)**
 
 
-![](https://github.com/LeoYiChen/WCCI2020-CI4APP/blob/master/SC29.jpg)
+![](https://github.com/LeoYiChen/i4ai-WCCI2020-CISM/blob/master/SC29.jpg)
 
 ***
 
